@@ -1,0 +1,17 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.0"
+dependencies = [
+    "docx>=0.2.4",
+    "dotenv>=0.9.9",
+    "fastapi>=0.116.1",
+    "mammoth>=1.9.1",
+    "notion-client>=2.4.0",
+    "openai-agents>=0.2.2",
+    "pdfplumber>=0.11.7",
+    "pymysql>=1.1.1",
+    "tidb-vector>=0.0.15",
+]

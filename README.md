@@ -1,5 +1,8 @@
 # HG Resume Craft Backend
 
+> This is important!
+
+
 AI-powered resume builder backend with Gemini integration.
 
 ## Features
